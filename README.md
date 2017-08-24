@@ -8,8 +8,6 @@ Analista de sistemas, formado pela [FTT (Faculdade de Tecnologia Termomecanica)]
 
 [Twitter](http://twitter.com/banzeh)
 
-
-
 ## Meus repositórios
 
 ### NodeJS
